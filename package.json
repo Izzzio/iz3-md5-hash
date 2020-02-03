@@ -1,11 +1,24 @@
 {
   "name": "iz3-md5-hash",
   "version": "1.0.0",
-  "description": "IZZZIO blockchain platform MD5 hashing plugin",
+  "description": "IZZZIO MD5 hashing",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Izzzio/iz3-md5-hash.git"
+  },
+  "keywords": [
+    "dlt",
+    "blockchain",
+    "crypto"
+  ],
   "author": "Andrey Nedobylsky",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Izzzio/iz3-md5-hash/issues"
+  },
+  "homepage": "https://github.com/Izzzio/iz3-md5-hash#readme"
 }
